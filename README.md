@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwani Bhati</h1>
 <h3 align="center">I’m interested in Data Analytics</h3>
 
-- 🔭 I’m currently working on [Chinese Loan to Africa (CLA) Analytics](https://github.com/thehorsesking/PortfolioProjects/blob/main/cla.sql)
+- 🔭 I’m currently working on [LinkedIn Job Scraper](https://github.com/thehorsesking/PortfolioProjects/blob/main/cla.sql)
 
 - 🌱 I’m currently learning **Python**
 
